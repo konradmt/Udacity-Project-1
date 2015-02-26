@@ -1,0 +1,6 @@
+Insttructions on how to run entertainment_center.py program:
+
+
+This program creates multiple instances of a class - movie. Then it generates a dynamc web page with those movies and loads it in a brower. 
+
+
